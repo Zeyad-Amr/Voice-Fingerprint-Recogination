@@ -1,4 +1,4 @@
-# Fingerprint Recogination Web App
+# Voice Fingerprint Recogination Web App
 ## How to start the app
 ### **Run Backend**
 1. Open a new Terminal and write:
